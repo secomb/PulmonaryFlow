@@ -1,7 +1,6 @@
 % Function Name: art_tree_complete.m
 
-% Author 1: David Johnson
-% Author 2: Timothy Secomb, PhD
+% Authors: David W. Johnson, Tuhin K. Roy and Timothy W. Secomb
 
 % Version History:
 %   1.0 - Initial creation
